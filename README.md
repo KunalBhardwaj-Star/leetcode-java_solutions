@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## String
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
