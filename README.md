@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0682-baseball-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 ## Monotonic Stack
 |  |
