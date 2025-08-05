@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0682-baseball-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
