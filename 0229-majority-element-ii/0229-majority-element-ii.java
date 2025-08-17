@@ -9,8 +9,7 @@ class Solution {
             map.put(nums[i] , map.getOrDefault(nums[i] , 0) + 1);
         }
 
-        Set<Integer> keySet = map.keySet();
-        for(Integer key : keySet){
+        for(Integer key :  map.keySet()){
             if(map.get(key) > nums.length/3){
                 AL.add(key);
             }
