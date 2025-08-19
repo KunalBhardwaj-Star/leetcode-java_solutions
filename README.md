@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0229-majority-element-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
