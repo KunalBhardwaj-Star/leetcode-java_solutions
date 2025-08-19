@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
