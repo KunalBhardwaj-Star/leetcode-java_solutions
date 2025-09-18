@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0682-baseball-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
