@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Union Find
