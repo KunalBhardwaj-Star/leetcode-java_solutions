@@ -3,16 +3,15 @@ class Solution {
         List<Integer> ans = new ArrayList<>();
 
         boolean[] track = new boolean[n];
-        Arrays.fill(track , true);
 
         for(int i = 0 ; i < edges.size(); i++){
             int u = edges.get(i).get(0) , v = edges.get(i).get(1);
 
-            track[v] = false;
+            track[v] = true;
         }
 
         for(int i = 0 ; i < n; i++){
-            if(track[i]) ans.add(i);
+            if(!track[i]) ans.add(i);
         }
 
         return ans;
