@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Design
 |  |
