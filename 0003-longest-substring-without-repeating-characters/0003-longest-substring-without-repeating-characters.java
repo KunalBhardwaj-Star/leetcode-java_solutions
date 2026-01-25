@@ -15,10 +15,10 @@ class Solution {
                 curr++;
             }
             else {
+                arr.remove((Character) s.charAt(i));
                 i++;
-                j = i;
-                curr = 0;
-                arr.clear();
+                curr-- ;
+                
             }
             count = Math.max(count , curr);
         }
