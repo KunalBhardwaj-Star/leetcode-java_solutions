@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0125-valid-palindrome) |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0739-daily-temperatures) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
