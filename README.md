@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
