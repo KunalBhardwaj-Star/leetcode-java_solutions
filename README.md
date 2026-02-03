@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
