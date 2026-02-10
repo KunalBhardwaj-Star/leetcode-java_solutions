@@ -8,15 +8,10 @@ class Solution {
             Set<Integer> odd = new HashSet<>();
 
             for (int j = i; j < n; j++) {
-                if (nums[j] % 2 == 0) {
-                    even.add(nums[j]);
-                } else {
-                    odd.add(nums[j]);
-                }
+                if (nums[j] % 2 == 0) even.add(nums[j]);
+                else odd.add(nums[j]);
 
-                if (even.size() == odd.size()) {
-                    maxLen = Math.max(maxLen, j - i + 1);
-                }
+                if (even.size() == odd.size()) maxLen = Math.max(maxLen, j - i + 1);
             }
         }
 
