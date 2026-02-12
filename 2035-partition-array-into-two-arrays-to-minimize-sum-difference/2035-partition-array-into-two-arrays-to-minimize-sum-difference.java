@@ -19,7 +19,6 @@ class Solution {
             right[i] = new ArrayList<>();
         }
 
-        // Generate left half subset sums
         for (int mask = 0; mask < (1 << half); mask++) {
             long sum = 0;
             int count = 0;
@@ -49,14 +48,12 @@ class Solution {
             right[count].add(sum);
         }
 
-        // Sort all right lists for binary search
         for (int i = 0; i <= half; i++) {
             Collections.sort(right[i]);
         }
 
         long minDiff = Long.MAX_VALUE;
 
-        // Try all possible sizes from left
         for (int k = 0; k <= half; k++) {
 
             List<Long> leftList = left[k];
