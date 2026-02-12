@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
+| [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
