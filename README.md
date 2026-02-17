@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0338-counting-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
