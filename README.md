@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0136-single-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0191-number-of-1-bits) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
