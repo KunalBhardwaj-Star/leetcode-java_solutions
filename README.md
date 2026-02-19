@@ -468,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
