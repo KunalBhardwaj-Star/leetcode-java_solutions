@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0709-to-lower-case](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
