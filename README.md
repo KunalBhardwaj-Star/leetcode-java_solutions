@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1192-critical-connections-in-a-network](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -482,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0175-combine-two-tables) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
