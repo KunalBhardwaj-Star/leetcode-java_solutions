@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Monotonic Queue
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -500,4 +503,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
