@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0191-number-of-1-bits) |
@@ -451,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Union Find
