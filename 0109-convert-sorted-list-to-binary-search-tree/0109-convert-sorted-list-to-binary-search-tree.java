@@ -26,7 +26,7 @@
 class Solution {
     public TreeNode toBST(ArrayList<Integer> list , int start , int end){
         if(start > end) return null;
-        int mid = (start + end) / 2;
+        int mid = (start + end)/2;
         TreeNode root = new TreeNode(list.get(mid));
         root.left = toBST(list , start , mid - 1);
         root.right = toBST(list , mid + 1 , end);
@@ -34,13 +34,13 @@ class Solution {
         return root;
     }
     public TreeNode sortedListToBST(ListNode head) {
-        if(head == null) return null;
-        ArrayList<Integer> list = new ArrayList<>();
+        ArrayList<Integer>list = new ArrayList<>();
+
         while(head != null){
             list.add(head.val);
             head = head.next;
         }
 
-        return toBST(list ,0 , list.size() - 1);
+        return toBST(list , 0 , list.size() - 1);
     }
 }
