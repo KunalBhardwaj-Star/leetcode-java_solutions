@@ -24,23 +24,41 @@
  * }
  */
 class Solution {
-    public TreeNode toBST(ArrayList<Integer> list , int start , int end){
-        if(start > end) return null;
-        int mid = (start + end)/2;
-        TreeNode root = new TreeNode(list.get(mid));
-        root.left = toBST(list , start , mid - 1);
-        root.right = toBST(list , mid + 1 , end);
-
-        return root;
-    }
+    private ListNode current;
     public TreeNode sortedListToBST(ListNode head) {
-        ArrayList<Integer>list = new ArrayList<>();
+        int size = getSize(head);
+        current = head ;
 
-        while(head != null){
-            list.add(head.val);
-            head = head.next;
+        return toBST(0 , size - 1);
+    }
+
+    private int getSize(ListNode list){
+        ListNode temp = list;
+        int size = 0;
+
+        while(temp != null){
+            size++;
+            temp = temp.next;
         }
 
-        return toBST(list , 0 , list.size() - 1);
+        return size;
+    }
+
+    private TreeNode toBST(int start , int end){
+        if(start > end) return null;
+        int mid = (start + end) / 2;
+
+        TreeNode left = toBST(start , mid - 1);
+
+        TreeNode root = new TreeNode(current.val);
+
+        current = current.next;
+
+        TreeNode right = toBST(mid + 1 , end);
+
+        root.left = left;
+        root.right = right;
+
+        return root;
     }
 }
