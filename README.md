@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
+| [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 ## Database
 |  |
 | ------- |
