@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
 |  |
