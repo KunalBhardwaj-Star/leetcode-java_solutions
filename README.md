@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Design
