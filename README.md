@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
+| [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
