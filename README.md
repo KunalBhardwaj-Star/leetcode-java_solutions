@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3379-transformed-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3643-flip-square-submatrix-vertically](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Queue
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
+| [3643-flip-square-submatrix-vertically](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Union-Find
 |  |
 | ------- |
