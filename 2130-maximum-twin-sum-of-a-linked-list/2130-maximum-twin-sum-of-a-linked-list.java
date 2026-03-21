@@ -23,20 +23,20 @@ class Solution {
     }
     public int pairSum(ListNode head) {
         int s = size(head);
-        int[] arr = new int[s];
-        int i = 0;
+        ArrayList<Integer> num = new ArrayList<>();
 
         ListNode temp = head;
 
         while(temp != null){
-            arr[i++] = temp.val;
+            num.add(temp.val);
             temp = temp.next;
         }
 
         int max = 0;
 
         for(int j = 0 ; j < s/2 ; j++){
-            max = Math.max(max , arr[j] + arr[s - j - 1]);
+            int currSum = num.get(j) + num.get(s-j-1);
+            max = Math.max(max , currSum);
         }
 
         return max;
