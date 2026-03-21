@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
