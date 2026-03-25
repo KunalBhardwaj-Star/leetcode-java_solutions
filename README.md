@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1470-shuffle-the-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0792-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
