@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Binary Search
 |  |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
