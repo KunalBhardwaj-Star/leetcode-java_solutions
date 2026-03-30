@@ -24,20 +24,20 @@ class Solution {
             }
         }
 
-        for(int i = 0 ; i < n / 2; i++){
-            System.out.println("Even : " + even1[i] + " " + even2[i]);
-            System.out.println("Odd : " + odd1[i] + " " + odd2[i]);
-        }
+        // for(int i = 0 ; i < n / 2; i++){
+        //     System.out.println("Even : " + even1[i] + " " + even2[i]);
+        //     System.out.println("Odd : " + odd1[i] + " " + odd2[i]);
+        // }
 
         Arrays.sort(even1);
         Arrays.sort(even2);
         Arrays.sort(odd1);
         Arrays.sort(odd2);
 
-        for(int i = 0 ; i < n / 2; i++){
-            System.out.println("Even : " + even1[i] + " " + even2[i]);
-            System.out.println("Odd : " + odd1[i] + " " + odd2[i]);
-        }
+        // for(int i = 0 ; i < n / 2; i++){
+        //     System.out.println("Even : " + even1[i] + " " + even2[i]);
+        //     System.out.println("Odd : " + odd1[i] + " " + odd2[i]);
+        // }
 
 
         return Arrays.equals(even1 , even2) && Arrays.equals(odd1 , odd2);
