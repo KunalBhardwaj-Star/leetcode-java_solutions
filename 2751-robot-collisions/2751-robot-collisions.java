@@ -1,68 +1,64 @@
 class Solution {
-    class Robot {
-        int position, health, index;
-        char direction;
-
-        Robot(int p, int h, char d, int i) {
-            position = p;
-            health = h;
-            direction = d;
-            index = i;
+    class Robot{
+        int pos , heal , idx;
+        char dir;
+        Robot(int p , int h , int i , char d){
+            this.pos = p;
+            this.heal = h;
+            this.idx = i;
+            this.dir = d;
         }
     }
-
     public List<Integer> survivedRobotsHealths(int[] positions, int[] healths, String directions) {
         int len = positions.length;
+        Robot[] R = new Robot[len];
 
-        Robot[] robots = new Robot[len];
-
-        for (int i = 0; i < len; i++) {
-            robots[i] = new Robot(positions[i], healths[i], directions.charAt(i), i);
+        for(int i = 0 ; i < len ; i++){
+            int p = positions[i] , h = healths[i];
+            char d = directions.charAt(i);
+            Robot curr = new Robot(p , h , i , d);
+            R[i] = curr;
         }
 
-        Arrays.sort(robots, (a, b) -> a.position - b.position);
+        Arrays.sort(R , (a , b) -> a.pos - b.pos);
 
-        Stack<Robot> stack = new Stack<>();
+        Stack<Robot> st = new Stack<>();
 
-        for (Robot curr : robots) {
-            if (curr.direction == 'R') {
-                stack.push(curr);
-            } else {
-                while (!stack.isEmpty() && stack.peek().direction == 'R') {
-                    Robot top = stack.peek();
-
-                    if (top.health < curr.health) {
-                        stack.pop();
-                        curr.health--;
-                    } else if (top.health > curr.health) {
-                        top.health--;
+        for(Robot curr : R){
+            if(curr.dir == 'R') st.push(curr);
+            else {
+                while(!st.isEmpty() && st.peek().dir == 'R'){
+                    Robot top = st.peek();
+                    if(top.heal < curr.heal){
+                        st.pop();
+                        curr.heal--;
+                    }
+                    else if(top.heal > curr.heal){
+                        top.heal--;
                         curr = null;
                         break;
-                    } else {
-                        stack.pop();
+                    }
+                    else{
+                        st.pop();
                         curr = null;
                         break;
                     }
                 }
 
-                if (curr != null) {
-                    stack.push(curr);
-                }
+                if(curr != null) st.push(curr);
             }
         }
 
         int[] result = new int[len];
 
-        for (Robot r : stack) {
-            result[r.index] = r.health;
+        for(Robot r : st){
+            result[r.idx] = r.heal;
         }
 
-        List<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
 
-        for (int i = 0; i < len; i++) {
-            if (result[i] > 0) {
-                ans.add(result[i]);
-            }
+        for(int c : result){
+            if(c > 0) ans.add(c);
         }
 
         return ans;
