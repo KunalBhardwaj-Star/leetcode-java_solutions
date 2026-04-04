@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1929-concatenation-of-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
