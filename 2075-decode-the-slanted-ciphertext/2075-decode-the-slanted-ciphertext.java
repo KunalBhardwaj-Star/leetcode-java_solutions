@@ -40,8 +40,6 @@ class Solution {
 
         String s = sb.toString();
 
-        System.out.println(s + " cols " + cols );
-
         int end = s.length()-1;
 
         //if(s.charAt(end) != ' ') return s;
