@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [1192-critical-connections-in-a-network](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1192-critical-connections-in-a-network) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
 |  |
