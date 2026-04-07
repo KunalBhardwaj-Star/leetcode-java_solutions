@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
 | [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
