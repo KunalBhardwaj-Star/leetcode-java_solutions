@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
 | [2751-robot-collisions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2906-construct-product-matrix) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
