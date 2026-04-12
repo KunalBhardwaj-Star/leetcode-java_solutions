@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
