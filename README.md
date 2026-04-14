@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0649-dota2-senate) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
