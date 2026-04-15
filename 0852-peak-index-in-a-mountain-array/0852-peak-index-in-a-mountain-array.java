@@ -4,23 +4,14 @@ class Solution {
 
         int l = 0 , r = len - 1;
 
-        int peak = Integer.MIN_VALUE;
-        int idx = 0;
+        while(l < r){
+            int mid = (l + r) / 2;
 
-        while(l <= r){
-            if(peak < arr[l]){
-                peak = arr[l];
-                idx = l;
-            }
-            if(peak < arr[r]){
-                peak = arr[r];
-                idx = r;
-            }
+            if(arr[mid] < arr[mid + 1]) l = mid + 1;
 
-            l++;
-            r--;
+            else r = mid;
         }
 
-        return idx;
+        return l;
     }
 }
