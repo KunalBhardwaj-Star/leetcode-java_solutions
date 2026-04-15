@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0187-repeated-dna-sequences) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0206-reverse-linked-list) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
@@ -734,4 +737,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0187-repeated-dna-sequences) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
