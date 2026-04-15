@@ -4,12 +4,18 @@ class Solution {
 
         if(len == 1) return nums[0];
 
-        int i = 0;
+        int l = 0 , r = len - 1;
 
-        for(i = 0 ; i < len - 1 ; i = i + 2){
-            if(nums[i] != nums[i+1]) return nums[i];
+        while(l < r){
+            int mid = (l + r) / 2;
+
+            if(mid % 2 == 1) mid--;
+
+            if(nums[mid] == nums[mid + 1]) l = mid + 2;
+
+            else r = mid;
         }
 
-        return i == len ? nums[i-1] : nums[i];
+        return nums[l];
     }
 }
