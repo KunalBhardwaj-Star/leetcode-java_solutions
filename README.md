@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0072-edit-distance) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0657-robot-return-to-origin) |
