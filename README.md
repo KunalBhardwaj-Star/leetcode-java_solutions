@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Quickselect
 |  |
 | ------- |
