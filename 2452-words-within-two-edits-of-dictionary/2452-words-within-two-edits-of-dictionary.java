@@ -1,15 +1,15 @@
 class Solution {
     private boolean isEditable(String q , String d){
-        if(q.equals(d)) return true;
-        if(q.length() != d.length()) return false;
-
         int count = 0;
 
         for(int i = 0 ; i < q.length() ; i++){
-            if(q.charAt(i) != d.charAt(i)) count++;
+            if(q.charAt(i) != d.charAt(i)){
+                count++;
+                if(count > 2) return false;
+            }
         }
 
-        return count <= 2;
+        return true;
     }
     public List<String> twoEditWords(String[] queries, String[] dictionary) {
         int qLen = queries.length , dLen = dictionary.length;
