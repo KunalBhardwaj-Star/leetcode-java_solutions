@@ -1,21 +1,16 @@
 class Solution {
-    private int reverse(int x) {
-       int rev = 0;
+    private int rev(int n){
+        int reverse = 0;
 
-       while(x != 0){
-        int curr = x % 10;
+        while(n != 0){
+            reverse = reverse * 10 + (n % 10);
+            n /= 10;
+        }
 
-        rev = rev * 10 + curr;
-
-        x /= 10;
-       }
-
-       return rev;
+        return reverse;
     }
-
     public int mirrorDistance(int n) {
-        int rev = reverse(n);
-
-        return Math.abs(rev - n);
+        int rev_n = rev(n);
+        return Math.abs(rev_n - n);
     }
 }
