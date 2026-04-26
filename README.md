@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0217-contains-duplicate) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0994-rotting-oranges) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
