@@ -1,29 +1,29 @@
 class Solution {
     private int[][] dir = {
-        {1 , 0},
-        {0 , 1},
         {-1 , 0},
-        {0 , -1}
+        {0 , -1},
+        {1 , 0},
+        {0 , 1}
     };
-    private void dfs(int[][] image, boolean[][]vis, int sr, int sc, int color , int curr){
-        int n = image.length , m = image[0].length;
 
-        if(sr < 0 || sc < 0 || sr >= n || sc >= m || vis[sr][sc] || image[sr][sc] != curr) return;
+    private void dfs(int[][] image , boolean[][] vis , int r , int c ,int color , int curr){
+        if(r < 0 || r >= image.length || c < 0 || c >= image[0].length || vis[r][c] || image[r][c] != curr) return;
 
-        vis[sr][sc] = true;
-        image[sr][sc] = color;
+        vis[r][c] = true;
+        image[r][c] = color;
 
         for(int[] d : dir){
-            dfs(image , vis , sr + d[0] , sc + d[1] , color , curr);
+            dfs(image , vis , r + d[0] , c + d[1], color , curr);
         }
     }
-    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int n = image.length , m = image[0].length;
-        boolean[][]vis = new boolean[n][m];
 
-        if(image[sr][sc] == color) return image;
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int row = image.length , col = image[0].length;
+
+        boolean[][] vis = new boolean[row][col];
 
         dfs(image , vis , sr , sc , color , image[sr][sc]);
+
         return image;
     }
 }
