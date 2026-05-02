@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0788-rotated-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
