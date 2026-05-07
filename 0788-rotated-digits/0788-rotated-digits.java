@@ -1,27 +1,27 @@
 class Solution {
-    private boolean goodNumOrNot(int n) {
-        boolean good_int = false;
-
-        int x = n;
+    private boolean goodOrNot(int x) {
+        boolean good = false;
 
         while (x != 0) {
             int curr = x % 10;
-            if (curr == 3 || curr == 7 || curr == 4)
+
+            if (curr == 3 || curr == 4 || curr == 7)
                 return false;
+
             if (curr == 2 || curr == 5 || curr == 6 || curr == 9)
-                good_int = true;
+                good = true;
 
             x /= 10;
         }
 
-        return good_int;
+        return good;
     }
 
     public int rotatedDigits(int n) {
         int count = 0;
-
-        for(int i = 2 ; i <= n ; i++){
-            if(goodNumOrNot(i)) count++;
+        for (int i = 2; i <= n; i++) {
+            if (goodOrNot(i))
+                count++;
         }
 
         return count;
