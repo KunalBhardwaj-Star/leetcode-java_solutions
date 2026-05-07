@@ -2,7 +2,7 @@ class Solution {
     private boolean goodOrNot(int x) {
         boolean good = false;
 
-        while (x != 0) {
+        while (x > 0) {
             int curr = x % 10;
 
             if (curr == 3 || curr == 4 || curr == 7)
