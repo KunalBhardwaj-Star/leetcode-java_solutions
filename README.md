@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1920-build-array-from-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2069-walking-robot-simulation-ii) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2906-construct-product-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2906-construct-product-matrix) |
