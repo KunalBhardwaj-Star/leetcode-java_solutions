@@ -15,9 +15,6 @@ class Solution {
             }
         }
 
-        for(int i = 0 ; i < n ; i++)
-            System.out.println(dp[i]);
-
-        return dp[n - 1] == 0 ? -1 : dp[n - 1];
+        return dp[n - 1];
     }
 }
