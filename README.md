@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3379-transformed-array) |
