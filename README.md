@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
