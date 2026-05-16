@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
