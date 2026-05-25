@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2751-robot-collisions) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
