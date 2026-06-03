@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1861-rotating-the-box) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1768-merge-strings-alternately](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
