@@ -1,17 +1,22 @@
 class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> result = new ArrayList<>();
-        int n = nums.length;
+        solve(0 , nums , new ArrayList<>());
+        return ans;
+    }
 
-        for(int mask = 0 ; mask < (1 << n) ; mask++){
-            List<Integer> subset = new ArrayList<>();
+    private void solve(int idx , int[] nums , List<Integer> subset){
+        if(idx == nums.length){
+            ans.add(new ArrayList<>(subset));
+            return;
+        }   
 
-            for(int i = 0 ; i < n ; i++){
-                if((mask & (1 << i)) != 0) subset.add(nums[i]);
-            }
-            result.add(subset);
-        }
+        subset.add(nums[idx]);
 
-        return result;
+        solve(idx + 1 , nums , subset);
+
+        subset.remove(subset.size() - 1);
+
+        solve(idx + 1 , nums , subset);
     }
 }
