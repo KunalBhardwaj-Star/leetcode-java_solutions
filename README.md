@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
