@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0443-string-compression) |
