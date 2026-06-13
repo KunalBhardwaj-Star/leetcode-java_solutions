@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3838-weighted-word-mapping) |
 | [3904-smallest-stable-index-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Queue
 |  |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3838-weighted-word-mapping](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
