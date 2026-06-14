@@ -9,33 +9,27 @@
  * }
  */
 class Solution {
-    private int size(ListNode root){
+    private int size(ListNode root , ArrayList<Integer>nodeElement){
         ListNode temp = root;
 
         int size = 0;
 
         while(temp != null){
-            size++;
+            nodeElement.add(temp.val);
             temp = temp.next;
+            size++;
         }
 
         return size;
     }
     public int pairSum(ListNode head) {
-        int s = size(head);
-        ArrayList<Integer> num = new ArrayList<>();
+        ArrayList<Integer>nodeElement = new ArrayList<>();
+        int sizeOfLL = size(head , nodeElement);
 
-        ListNode temp = head;
+        int max = Integer.MIN_VALUE;
 
-        while(temp != null){
-            num.add(temp.val);
-            temp = temp.next;
-        }
-
-        int max = 0;
-
-        for(int j = 0 ; j < s/2 ; j++){
-            int currSum = num.get(j) + num.get(s-j-1);
+        for(int i = 0 ; i < sizeOfLL / 2 ; i++){
+            int currSum = nodeElement.get(i) + nodeElement.get(sizeOfLL - i - 1);
             max = Math.max(max , currSum);
         }
 
