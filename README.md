@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0874-walking-robot-simulation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
