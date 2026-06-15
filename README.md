@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0733-flood-fill](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
+| [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0872-leaf-similar-trees) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
