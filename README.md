@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -805,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
@@ -1025,4 +1029,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3161-block-placement-queries) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
