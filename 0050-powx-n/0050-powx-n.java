@@ -1,29 +1,23 @@
 class Solution {
     public double myPow(double x, int n) {
-    if (n == 0) {
-        return 1;
+        if(n == 0)
+            return 1;
+
+        long N = n;
+        if(n < 0){
+            x = 1/x;
+            N = -n;
+        }
+
+        return pow(x , N);
     }
 
-    // Handle negative exponents
-    long N = n; // Use long to prevent overflow when n = Integer.MIN_VALUE
-    if (N < 0) {
-        x = 1 / x;
-        N = -N;
+    private double pow(double x , long N){
+        if(N == 0)
+            return 1;
+
+        double half = pow(x , N / 2);
+
+        return N % 2 == 0 ? half * half : half * half * x;
     }
-
-    return fastPow(x, N);
-}
-
-private double fastPow(double x, long n) {
-    if (n == 0) return 1;
-
-    double half = fastPow(x, n / 2);
-
-    if (n % 2 == 0) {
-        return half * half;
-    } else {
-        return half * half * x;
-    }
-}
-
 }
