@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
@@ -827,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0693-binary-number-with-alternating-bits) |
