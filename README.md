@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0657-robot-return-to-origin) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0174-dungeon-game) |
