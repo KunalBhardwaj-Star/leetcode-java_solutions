@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3379-transformed-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
@@ -1009,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Topological Sort
 |  |
@@ -1019,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1514-path-with-maximum-probability) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -1054,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
