@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0051-n-queens) |
