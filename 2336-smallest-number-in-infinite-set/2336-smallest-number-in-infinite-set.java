@@ -1,11 +1,15 @@
 class SmallestInfiniteSet {
-    private int curr ;
+
+    private int current;
+
+    private PriorityQueue<Integer> pq;
+
     private HashSet<Integer> set;
-    private PriorityQueue<Integer>pq;
+
     public SmallestInfiniteSet() {
-        curr = 1;
-        set = new HashSet<>();
+        current = 1;
         pq = new PriorityQueue<>();
+        set = new HashSet<>();
     }
     
     public int popSmallest() {
@@ -15,13 +19,13 @@ class SmallestInfiniteSet {
             return x;
         }
 
-        return curr++;
+        return current++;
     }
     
     public void addBack(int num) {
-        if(num < curr && !set.contains(num)){
-            set.add(num);
+        if(num < current && !set.contains(num)){
             pq.offer(num);
+            set.add(num);
         }
     }
 }
