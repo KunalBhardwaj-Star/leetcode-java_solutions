@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
+| [1301-number-of-paths-with-max-score](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-longest-common-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1092,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
