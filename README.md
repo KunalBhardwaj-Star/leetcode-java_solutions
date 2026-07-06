@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0652-find-duplicate-subtrees) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0516-longest-palindromic-subsequence) |
