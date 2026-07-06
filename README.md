@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0054-spiral-matrix) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0079-word-search) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0148-sort-list) |
