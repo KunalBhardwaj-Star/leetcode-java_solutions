@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
+| [1288-remove-covered-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
+| [1288-remove-covered-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1288-remove-covered-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1657-determine-if-two-strings-are-close) |
