@@ -1,33 +1,32 @@
 class Solution {
     public int rob(int[] nums) {
-        int n = nums.length;
-        if(n == 0)return 0;
-        if(n == 1) return nums[0];
-        if(n == 2) return Math.max(nums[0] , nums[1]);
-        if(n == 3){
-            return Math.max(nums[0] , Math.max(nums[1] , nums[2]));
+        int len = nums.length;
+
+        if(len == 1)
+            return nums[0];
+
+        if(len == 2)
+            return Math.max(nums[0] , nums[1]);
+
+        int prev2S = nums[0];
+        int prev1S = Math.max(nums[0] , nums[1]);
+
+        for(int i = 2 ; i < len - 1 ; i++){
+            int current = Math.max(prev1S , prev2S + nums[i]);
+            prev2S = prev1S;
+            prev1S = current;
         }
 
-        int dp1[] = new int[n];
-        int dp2[] = new int[n];
+        int prev2L = nums[1];
+        int prev1L = Math.max(nums[1] , nums[2]);
 
-        dp1[0] = nums[0];
-        dp1[1] = Math.max(nums[0] , nums[1]);
-
-        dp2[0] = 0;
-        dp2[1] = nums[1];
-
-        for(int i = 2 ; i < n-1 ; i++){
-            dp1[i] = Math.max(dp1[i-1] , nums[i] + dp1[i-2]);
+        for(int i = 3 ; i < len ; i++){
+            int current = Math.max(prev1L , prev2L + nums[i]);
+            prev2L = prev1L;
+            prev1L = current;
         }
 
-        for(int i = 2 ; i < n ; i++){
-            dp2[i] = Math.max(dp2[i-1] , nums[i] + dp2[i-2]);
-        }
+        return Math.max(prev1S , prev1L);
 
-        int dp1Max = Math.max(dp1[n-1] , dp1[n-2]);
-        int dp2Max = Math.max(dp2[n-1] , dp2[n-2]);
-
-        return Math.max(dp1Max , dp2Max);
     }
 }
