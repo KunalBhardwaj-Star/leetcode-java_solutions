@@ -8,25 +8,25 @@ class Solution {
         if(len == 2)
             return Math.max(nums[0] , nums[1]);
 
-        int prev2S = nums[0];
-        int prev1S = Math.max(nums[0] , nums[1]);
+        // include first , exclude last
+        int max1 = findMax(nums , 0 , len - 2);
 
-        for(int i = 2 ; i < len - 1 ; i++){
-            int current = Math.max(prev1S , prev2S + nums[i]);
-            prev2S = prev1S;
-            prev1S = current;
+        // exclude first , include last
+        int max2 = findMax(nums , 1 , len - 1);
+
+        return Math.max(max1 , max2);
+    }
+
+    private int findMax(int[] nums , int start , int end){
+        int prev2 = nums[start];
+        int prev1 = Math.max(nums[start] , nums[start + 1]);
+
+        for(int i = start + 2 ; i <= end ; i++){
+            int current = Math.max(prev1 , prev2 + nums[i]);
+            prev2 = prev1;
+            prev1 = current;
         }
 
-        int prev2L = nums[1];
-        int prev1L = Math.max(nums[1] , nums[2]);
-
-        for(int i = 3 ; i < len ; i++){
-            int current = Math.max(prev1L , prev2L + nums[i]);
-            prev2L = prev1L;
-            prev1L = current;
-        }
-
-        return Math.max(prev1S , prev1L);
-
+        return prev1;
     }
 }
