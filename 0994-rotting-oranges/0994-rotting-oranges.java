@@ -1,42 +1,64 @@
 class Solution {
-    public int orangesRotting(int[][] grid) {
-        int rows = grid.length , cols = grid[0].length;
-        Queue<int[]> queue = new LinkedList<>();
-        int freshCount = 0  , minutes = 0;
-        int[][] dir = {{0 , 1} , {1 , 0} , {0 , -1} , {-1 , 0}};
 
-        for(int i = 0 ; i < rows ; i++){
-            for(int j = 0 ; j < cols ; j++){
-                if(grid[i][j] == 2) queue.add(new int[]{i , j});
-                else if(grid[i][j] == 1) freshCount++;
+    public int orangesRotting(int[][] grid) {
+
+        if (grid.length == 0)
+            return 0;
+
+        int m = grid.length;
+        int n = grid[0].length;
+
+        int total = 0;
+
+        int count = 0;
+
+        Queue<int[]> rotten = new LinkedList<>();
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                if (grid[i][j] != 0)
+                    total++;
+
+                if (grid[i][j] == 2) {
+                    rotten.add(new int[] { i, j });
+                }
             }
         }
 
-        if(freshCount == 0) return 0;
+        int[] dx = { 0, 0, 1, -1 };
+        int[] dy = { 1, -1, 0, 0 };
 
-        while(!queue.isEmpty()){
-            int size = queue.size();
-            boolean minInc = false;
+        int days = 0;
 
-            for(int i = 0 ; i < size ; i++){
-                int[] curr = queue.poll();
+        while (!rotten.isEmpty()) {
 
-                for(int[] x : dir){
-                    int nr = curr[0] + x[0] , nc = curr[1] + x[1];
+            int k = rotten.size();
 
-                    if(nr >= 0 && nr < rows && nc >= 0 && nc < cols && grid[nr][nc] == 1){
-                        grid[nr][nc] = 2;
-                        queue.add(new int[]{nr , nc});
-                        freshCount--;
-                        minInc = true;
-                    }
+            count += k;
+
+            for (int i = 0; i < k; i++) {
+
+                int[] pos = rotten.poll();
+                int x = pos[0], y = pos[1];
+
+                for (int d = 0; d < 4; d++) {
+                    int nx = x + dx[d];
+                    int ny = y + dy[d];
+
+                    if (nx < 0 || ny < 0 || nx >= m || ny >= n || grid[nx][ny] != 1)
+                        continue;
+
+                    grid[nx][ny] = 2;
+
+                    rotten.add(new int[] { nx, ny });
                 }
             }
 
-            if(minInc) minutes++;
+            if (!rotten.isEmpty())
+                days++;
         }
 
-        return freshCount == 0 ? minutes : -1;
-
+        return total == count ? days : -1;
     }
 }
