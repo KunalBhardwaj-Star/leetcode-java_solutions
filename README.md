@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0125-valid-palindrome) |
