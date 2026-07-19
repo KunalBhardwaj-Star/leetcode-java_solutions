@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0078-subsets) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0146-lru-cache) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0174-dungeon-game) |
