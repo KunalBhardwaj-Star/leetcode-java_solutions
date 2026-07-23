@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1734-decode-xored-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1833-maximum-ice-cream-bars](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1734-decode-xored-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1734-decode-xored-permutation) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3093-longest-common-suffix-queries) |
