@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1732-find-the-highest-altitude) |
+| [1734-decode-xored-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1840-maximum-building-height) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1734-decode-xored-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1734-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
