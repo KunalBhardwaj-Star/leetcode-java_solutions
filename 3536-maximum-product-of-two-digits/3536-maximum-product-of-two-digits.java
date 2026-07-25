@@ -1,19 +1,20 @@
 class Solution {
     public int maxProduct(int n) {
-        int len = (int)Math.log10(n) + 1;
+        int max1 = 0 , max2 = 0;
 
-        int[] sep = new int[len];
+        while(n != 0){
+            int dig = n % 10;
 
-        int idx = 0;
-
-        while(n != 0 && idx < len){
-            sep[idx++] = n % 10;
+            if(dig > max1){
+                max2 = max1;
+                max1 = dig;
+            } else if(dig > max2){
+                max2 = dig;
+            }
 
             n /= 10;
         }
 
-        Arrays.sort(sep);
-
-        return sep[len - 1] * sep[len - 2];
+        return max1 * max2;
     }
 }
