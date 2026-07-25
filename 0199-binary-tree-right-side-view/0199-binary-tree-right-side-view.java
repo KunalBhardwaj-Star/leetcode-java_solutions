@@ -15,33 +15,31 @@
  */
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        ArrayList<Integer> rightSideView = new ArrayList<>();
+        ArrayList<Integer> view = new ArrayList<>();
 
         if(root == null)
-            return rightSideView;
+            return view;
 
         Queue<TreeNode> q = new LinkedList<>();
-
         q.offer(root);
 
         while(!q.isEmpty()){
             int size = q.size();
 
             for(int i = 0 ; i < size ; i++){
-                TreeNode current = q.poll();
+                TreeNode curr = q.poll();
 
-                if(i == size - 1){
-                    rightSideView.add(current.val);
-                }
+                if(curr.left != null)
+                    q.offer(curr.left);
 
-                if(current.left != null)
-                    q.offer(current.left);
+                if(curr.right != null)
+                    q.offer(curr.right);
 
-                if(current.right != null)
-                    q.offer(current.right);
+                if(i == size - 1)
+                    view.add(curr.val);
             }
         }
 
-        return rightSideView;
+        return view;
     }
 }
