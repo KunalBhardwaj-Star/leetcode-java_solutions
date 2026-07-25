@@ -1,57 +1,49 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-
         int n = heights.length;
+
         int maxArea = 0;
 
-        int[] nsr = new int[n];
         int[] nsl = new int[n];
+        int[] nsr = new int[n];
 
         Stack<Integer> s = new Stack<>();
 
-        for(int i = n - 1; i >= 0; i--) {
-
-            while(!s.isEmpty() &&
-                  heights[s.peek()] >= heights[i]) {
+        for (int i = n - 1; i >= 0; i--) {
+            while (!s.isEmpty() && heights[s.peek()] >= heights[i]) {
                 s.pop();
             }
 
-            if(s.isEmpty()) {
+            if (s.isEmpty())
                 nsr[i] = n;
-            } else {
+
+            else
                 nsr[i] = s.peek();
-            }
 
             s.push(i);
         }
 
         s.clear();
 
-        for(int i = 0; i < n; i++) {
-
-            while(!s.isEmpty() &&
-                  heights[s.peek()] >= heights[i]) {
+        for (int i = 0; i < n; i++) {
+            while (!s.isEmpty() && heights[s.peek()] >= heights[i]) {
                 s.pop();
             }
 
-            if(s.isEmpty()) {
+            if (s.isEmpty())
                 nsl[i] = -1;
-            } else {
+
+            else
                 nsl[i] = s.peek();
-            }
 
             s.push(i);
         }
 
-        for(int i = 0; i < n; i++) {
-
-            int height = heights[i];
+        for (int i = 0; i < n; i++) {
             int width = nsr[i] - nsl[i] - 1;
+            int hght = heights[i];
 
-            maxArea = Math.max(
-                maxArea,
-                height * width
-            );
+            maxArea = Math.max(maxArea, width * hght);
         }
 
         return maxArea;
