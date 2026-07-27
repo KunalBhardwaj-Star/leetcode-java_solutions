@@ -1,24 +1,32 @@
 class Solution {
-    public int search(int[] nums, int target) {
-        int n = nums.length;
-
-        if (n == 1 && nums[0] != target)
+    private int binarySearch(int[] nums , int low , int high , int target){
+        if(low > high)
             return -1;
-        if (n == 1 && nums[0] == target)
-            return 0;
 
-        int l = 0, r = n - 1;
+        int mid = (low + high) / 2;
 
-        while (l <= r) {
-            if (nums[l] == target)
-                return l;
-            if (nums[r] == target)
-                return r;
+        if(nums[mid] == target)
+            return mid;
 
-            l++;
-            r--;
+        if(nums[low] <= nums[mid]){
+            if(nums[low] <= target && nums[mid] > target)
+                high = mid - 1;
+
+            else 
+                low = mid + 1;
         }
 
-        return -1;
+        else{
+            if(nums[mid] < target && nums[high] >= target){
+                low = mid + 1;
+            } 
+            else
+                high = mid - 1;
+        }
+
+        return binarySearch(nums , low , high , target);
+    }
+    public int search(int[] nums, int target) {
+        return binarySearch(nums , 0 , nums.length - 1, target);
     }
 }
