@@ -1,42 +1,33 @@
 class Solution {
-    private int[] dp;
-
     private ArrayList<Integer> list;
+    private int[] fact;
 
     private void factorial(int n){
-        dp[0] = 1;
-        dp[1] = 1;
+        fact = new int[n+1];
+        fact[0] = 1;
+        fact[1] = 1;
 
-        for(int i = 2 ; i <= n ; i++){
-            dp[i] = i * dp[i-1];
-        }
-    }
-
-    private void createList(int n){
-        for(int i = 1 ; i <= n ; i++){
-            list.add(i);
+        for(int i = 2; i <= n; i++){
+            fact[i] = i * fact[i-1];
         }
     }
 
     private String getKthPermutation(int n , int k){
-        if(k > dp[n])
+        if(k > fact[n])
             return "";
+
+        int requiredLen = n;
 
         StringBuilder sb = new StringBuilder();
 
-        int remLen = n;
-
-        while(remLen > 0){
+        while(requiredLen > 0){
             for(int x : list){
-                int blockSize = dp[remLen - 1];
-
-                if(k > blockSize)
-                    k -= blockSize;
-
-                else {
+                if(fact[requiredLen - 1] < k){
+                    k -= fact[requiredLen - 1];
+                } else {
                     sb.append("" + x);
                     list.remove(Integer.valueOf(x));
-                    remLen--;
+                    requiredLen--;
                     break;
                 }
             }
@@ -46,10 +37,14 @@ class Solution {
     }
 
     public String getPermutation(int n, int k) {
-        dp = new int[n+1];
         list = new ArrayList<>();
+
+        for(int i = 1 ; i <= n ; i++){
+            list.add(i);
+        }
+
         factorial(n);
-        createList(n);
+
         return getKthPermutation(n , k);
     }
 }
