@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1840-maximum-building-height) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1871-jump-game-vii) |
@@ -1363,4 +1366,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
