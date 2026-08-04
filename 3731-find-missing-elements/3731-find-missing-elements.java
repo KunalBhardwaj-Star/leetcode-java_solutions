@@ -1,10 +1,6 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         int n = nums.length;
-        // boolean[] present = new boolean[n+1];
-
-        // for(int x : nums)
-        //     present[x - 1] = true;
 
         int min = 100 , max = 1;
 
