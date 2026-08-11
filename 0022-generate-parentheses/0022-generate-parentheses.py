@@ -4,7 +4,7 @@ class Solution:
         self.ans = []
 
     def backtrack(self , n: int , open_count: int , close_count: int , path):
-        if (len(path) == 2 * n) & (open_count == close_count):
+        if (len(path) == 2 * n) and (open_count == close_count):
             self.ans.append("".join(path))
             return
 
