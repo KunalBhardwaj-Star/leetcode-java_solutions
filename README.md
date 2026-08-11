@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0735-asteroid-collision) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
