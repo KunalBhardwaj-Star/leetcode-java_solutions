@@ -1436,4 +1436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1510-stone-game-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
