@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0486-predict-the-winner) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -1406,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0398-random-pick-index) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1464,4 +1467,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
+| [0398-random-pick-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
