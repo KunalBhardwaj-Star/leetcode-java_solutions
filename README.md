@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
 | [0396-rotate-function](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1457,4 +1460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0075-sort-colors) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
