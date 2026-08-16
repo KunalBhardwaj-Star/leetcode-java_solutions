@@ -1542,4 +1542,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0139-word-break) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
