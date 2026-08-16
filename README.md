@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0096-unique-binary-search-trees) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0072-edit-distance) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
