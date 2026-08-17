@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0382-linked-list-random-node) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0337-house-robber-iii) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
@@ -1555,4 +1558,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
