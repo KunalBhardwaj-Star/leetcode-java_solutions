@@ -1,42 +1,28 @@
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        HashMap<Integer , HashSet<Integer>> reserved = new HashMap<>();
+        HashMap<Integer , Integer> reserved = new HashMap<>();
 
-        for(int i = 0 ; i < reservedSeats.length ; i++){
-            int row = reservedSeats[i][0];
-            int col = reservedSeats[i][1];
-
-            reserved.putIfAbsent(row , new HashSet<>());
-            reserved.get(row).add(col);
+        for(int[] seat : reservedSeats){
+            reserved.put(seat[0],
+                reserved.getOrDefault(seat[0] , 0) | (1 << seat[1])
+            );
         }
 
-        int k = reserved.size();
+        int ans = (n - reserved.size()) * 2;
 
-        int ans = (n - k) * 2;
+        int LFT = (1 << 2) | (1 << 3) | (1 << 4) | (1 << 5);
+        int MID = (1 << 4) | (1 << 5) | (1 << 6) | (1 << 7);
+        int RGHT = (1 << 6) | (1 << 7) | (1 << 8) | (1 << 9);
 
-        for (HashSet<Integer> seats : reserved.values()) {
+        for(int mask : reserved.values()){
+            boolean lft = (mask & LFT) == 0;
+            boolean mid = (mask & MID) == 0;
+            boolean rght = (mask & RGHT) == 0;
 
-            boolean lft =
-                !seats.contains(2) &&
-                !seats.contains(3) &&
-                !seats.contains(4) &&
-                !seats.contains(5);
-
-            boolean mid =
-                !seats.contains(4) &&
-                !seats.contains(5) &&
-                !seats.contains(6) &&
-                !seats.contains(7);
-
-            boolean rght =
-                !seats.contains(6) &&
-                !seats.contains(7) &&
-                !seats.contains(8) &&
-                !seats.contains(9);
-
-            if (lft && rght)
+            if(lft && rght)
                 ans += 2;
-            else if (lft || mid || rght)
+
+            else if(lft || mid || rght)
                 ans += 1;
         }
 
