@@ -1,38 +1,28 @@
 class Solution {
     public int myAtoi(String s) {
         s = s.trim();
-        long num = 0;
 
-        int len = s.length();
+        if(s.length() == 0)
+            return 0;
 
-        if(len == 0) return 0;
+        boolean neg = s.charAt(0) == '-' ? true : false;
 
-        int i = 0;
-        boolean neg = false;
+        if(s.charAt(0) == '-' || s.charAt(0) == '+')
+            s = s.substring(1 , s.length());
 
-        if(s.charAt(0) == '-' || s.charAt(0) == '+'){
-            neg = s.charAt(0) == '-';
-            i++;
+        int ans = 0;
+
+        for(char ch : s.toCharArray()){
+            if(ch < '0' || ch > '9')
+                break;
+
+            if(ans > Integer.MAX_VALUE / 10 || (ans == Integer.MAX_VALUE / 10 && ch > '7'))
+                return neg ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+
+            ans *= 10;
+            ans += (ch - '0');
         }
 
-        while(i < len){
-            char ch = s.charAt(i);
-
-            if(ch < '0' || ch > '9') break;
-
-            num = num * 10 + (ch - '0');
-
-            if (!neg && num > Integer.MAX_VALUE) {
-                return Integer.MAX_VALUE;
-            }
-
-            if (neg && -num < Integer.MIN_VALUE) {
-                return Integer.MIN_VALUE;
-            }
-
-            i++;
-        }
-
-        return neg ? -(int)num : (int)num;
+        return neg ? -ans : ans;
     }
 }
