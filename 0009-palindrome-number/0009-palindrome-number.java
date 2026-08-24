@@ -3,12 +3,12 @@ class Solution {
         if(x < 0)
             return false;
 
-        String s = "" + x;
+        String num = "" + x;
 
-        int l = 0 , r = s.length() - 1;
+        int l = 0 , r = num.length() - 1;
 
         while(l < r){
-            if(s.charAt(l) != s.charAt(r))
+            if(num.charAt(l) != num.charAt(r))
                 return false;
 
             l++;
@@ -16,5 +16,6 @@ class Solution {
         }
 
         return true;
+
     }
 }
