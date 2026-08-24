@@ -1,18 +1,25 @@
 class Solution {
     public int reverse(int x) {
-        int rev = 0;
+        boolean neg = x < 0 ? true : false;
 
-        while( x != 0){
-            int dig = x % 10;
-            x /= 10;
+        x = Math.abs(x);
 
-            if(rev > Integer.MAX_VALUE / 10 ||
-            rev < Integer.MIN_VALUE / 10)
+        int ans = 0;
+
+        while(x != 0){
+            int rem = x % 10;
+
+            if(ans > Integer.MAX_VALUE / 10  || (ans == Integer.MAX_VALUE / 10 && rem > 7))
                 return 0;
 
-            rev = rev * 10 + dig;
+            if(ans < Integer.MIN_VALUE / 10 || (ans == Integer.MIN_VALUE / 10 && rem < -8))
+                return 0;
+
+            ans *= 10;
+            ans += rem;
+            x /= 10;
         }
 
-        return rev;
+        return neg ? -ans : ans;
     }
 }
