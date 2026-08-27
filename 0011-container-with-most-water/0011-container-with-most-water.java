@@ -1,31 +1,25 @@
-import java.util.*;
-
 class Solution {
-    public static void main(String[] args) {
-        int[] height = { 1, 8, 6, 2, 5, 4, 8, 3, 7 };
-        Solution sol = new Solution();
-        int ans = sol.maxArea(height);
-        System.out.println(ans);
-    }
-
     public int maxArea(int[] height) {
-        int lp = 0;
-        int rp = height.length - 1;
-        int maxWater = 0;
+        int lft = 0;
+        int rght = height.length - 1;
 
-        while (lp < rp) {
-            int ht = Math.min(height[lp], height[rp]);
-            int width = rp - lp;
-            int currWater = ht * width;
-            maxWater = Math.max(maxWater, currWater);
+        int max = 0;
 
-            //update
-            if (height[lp] < height[rp]) {
-                lp++;
-            } else {
-                rp--;
-            }
+        while(lft < rght){
+            int width = rght - lft;
+            int hght = Math.min(height[lft] , height[rght]);
+            int currArea = width * hght;
+
+            max = Math.max(max , currArea);
+
+            if(height[lft] < height[rght])
+                lft++;
+
+            else 
+                rght--;
+
         }
-        return maxWater;
+
+        return max;
     }
 }
