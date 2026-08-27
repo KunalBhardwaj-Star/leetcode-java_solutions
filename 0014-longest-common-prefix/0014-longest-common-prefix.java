@@ -1,25 +1,30 @@
 class Solution {
-    private String commonPrefix(String s1 , String s2){
-        int i = 0;
 
-        while(i < s1.length() && i < s2.length() && s1.charAt(i) == s2.charAt(i))
-            i++;
+    private String compare(String s1 , String s2){
+        int p1 = 0 , p2 = 0;
 
-        return s1.substring(0 , i);
-    }
-    public String longestCommonPrefix(String[] strs) {
-        int len = strs.length;
-        String s1 = strs[0];
-
-        if(len == 1)
-            return s1;
-
-        for(int i = 1 ; i < len ; i++){
-            String s2 = strs[i];
-
-            s1 = commonPrefix(s1 , s2);
+        while(p1 < s1.length() && p2 < s2.length() && s1.charAt(p1) == s2.charAt(p2)){
+            p1++;
+            p2++;
         }
 
-        return s1;
+        return s1.substring(0 , p1);
+    }
+
+    public String longestCommonPrefix(String[] strs) {
+        int n = strs.length;
+
+        if(n == 1)
+            return strs[0];
+
+        String ans = strs[0];
+
+        for(int i = 1 ; i < n ; i++){
+            String s1 = strs[i];
+
+            ans = compare(ans , s1);
+        }
+
+        return ans;
     }
 }
