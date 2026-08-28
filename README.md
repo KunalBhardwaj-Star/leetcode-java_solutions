@@ -1630,4 +1630,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
