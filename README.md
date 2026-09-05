@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -1160,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0561-array-partition) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1833-maximum-ice-cream-bars](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2029-stone-game-ix) |
