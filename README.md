@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1092-shortest-common-supersequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -902,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1108-defanging-an-ip-address) |
