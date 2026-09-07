@@ -3,17 +3,23 @@ class Solution {
         int len = target.length;
         List<String> ans = new ArrayList<>();
 
-        if(n == 0)
-            return ans;
+        Stack<Integer> st = new Stack<>();
 
-        int idx = 0;
+        int i = 0;
 
-        for(int i = 0 ; i < n && idx < len ; i++){
-            if(i + 1 == target[idx]){
-                ans.add("Push");
-                idx++;
-            } else{
-                ans.add("Push");
+        for(int x = 1; x <= n ; x++){
+
+            if(i >= len)
+                return ans;
+
+            st.push(i);
+            ans.add("Push");
+
+            if(x == target[i])
+                i++;
+
+            else{
+                st.pop();
                 ans.add("Pop");
             }
         }
