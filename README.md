@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2485-find-the-pivot-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2485-find-the-pivot-integer) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1323,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2485-find-the-pivot-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2485-find-the-pivot-integer) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2615-sum-of-distances) |
