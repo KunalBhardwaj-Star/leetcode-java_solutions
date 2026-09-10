@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
