@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -1583,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## String Matching
 |  |
