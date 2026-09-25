@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0826-most-profit-assigning-work](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -1271,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
@@ -1507,6 +1512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1980-find-unique-binary-string) |
