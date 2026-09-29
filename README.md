@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2381-shifting-letters-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2381-shifting-letters-ii) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1589,6 +1591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2352-equal-row-and-column-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2906-construct-product-matrix) |
@@ -1728,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Quicksort
 |  |
 | ------- |
