@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1140-stone-game-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1140-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1288-remove-covered-intervals) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1140-stone-game-ii) |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
@@ -1657,6 +1659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1785,4 +1788,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
