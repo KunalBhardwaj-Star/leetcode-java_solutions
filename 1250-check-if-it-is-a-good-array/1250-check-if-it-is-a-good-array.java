@@ -18,7 +18,7 @@ class Solution {
 
         int fact = gcd(nums[0] , nums[1]);
 
-        for(int i = 2; i < n ; i++){
+        for(int i = 2; i < n ; i ++){
             fact = gcd(fact , nums[i]);
         }
 
