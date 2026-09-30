@@ -1,4 +1,5 @@
 class Solution {
+
     Boolean[][][] dp;
 
     private boolean isValidExist(char[][] grid , int i , int j , int bal){
@@ -16,19 +17,15 @@ class Solution {
         if(dp[i][j][bal] != null)
             return dp[i][j][bal];
 
-        return dp[i][j][bal] = isValidExist(grid , i + 1 , j , bal) || isValidExist(grid , i , j + 1, bal);
+        return dp[i][j][bal] = isValidExist(grid , i + 1 , j , bal) || isValidExist(grid , i , j + 1 , bal);
     }
 
     public boolean hasValidPath(char[][] grid) {
         int m = grid.length , n = grid[0].length;
-
-        if(grid[0][0] == ')' || grid[m-1][n-1] == '(')
-            return false;
-
-        if(((m+n -1) & 1) == 1)
-            return false;
-
         int maxBal = m + n + 1;
+
+        if(((m+n-1) & 1) == 1)
+            return false;
 
         dp = new Boolean[m][n][maxBal];
 
