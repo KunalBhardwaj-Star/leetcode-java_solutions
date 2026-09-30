@@ -2,20 +2,30 @@ class Solution {
     public int[] maxDepthAfterSplit(String seq) {
         int len = seq.length();
 
-        int[] ans = new int[len];
+        Stack<Integer> stack = new Stack<>();
 
-        int depth = 0;
+        stack.push(0);
 
-        
-        for(int i = 0 ; i < len ; i++){
+        int[] depth = new int[len];
+
+        depth[0] = 0;
+
+        for(int i = 1 ; i < len ; i++){
             if(seq.charAt(i) == '('){
-                depth++;
-                ans[i] = depth % 2;
-            } else{
-                ans[i] = depth % 2;
-                depth--;
+                depth[i] = stack.isEmpty() ? 0 : depth[stack.peek()] + 1;
+                stack.push(i);
+            }
+
+            else{
+                int idx = stack.pop();
+                depth[i] = depth[idx];
             }
         }
-        return ans;
+
+        for(int i = 0 ; i < len ; i++){
+            depth[i] = depth[i] % 2;
+        }
+
+        return depth;
     }
 }
