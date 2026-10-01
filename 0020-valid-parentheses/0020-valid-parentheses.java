@@ -1,32 +1,32 @@
-import java.util.*;
-
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> str = new Stack<>();
-        for(int i =  0; i < s.length() ; i++){
-            char ch = s.charAt(i);
-            // opening
-            if(ch == '(' || ch == '{' || ch == '['){
-                str.push(ch);
-            } else {
-                //closing 
-                if(str.isEmpty()){
+        Stack<Character> stack = new Stack<>();
+
+        int len = s.length();
+
+        if(s.charAt(0) == ')' || s.charAt(0) == '}' || s.charAt(0) == ']')
+            return false;
+
+        if(s.charAt(len - 1) == '(' || s.charAt(len - 1) == '{' || s.charAt(len - 1) == '[')
+            return false;
+
+        for(char ch : s.toCharArray()){
+            if(ch == '(' || ch == '{' || ch == '[')
+                stack.push(ch);
+
+            else{
+
+                if(stack.isEmpty())
                     return false;
-                } 
-                if((str.peek() == '(' && ch == ')') 
-                || (str.peek() == '{' && ch == '}') 
-                || (str.peek() == '[' && ch == ']')){
-                    str.pop();
-                } else {
-                    return false;
-                }
+
+                if((stack.peek() == '(' && ch == ')') || (stack.peek() == '{' && ch == '}') || (stack.peek() == '[' && ch == ']'))
+                    stack.pop();
+
+                else
+                    stack.push(ch);
             }
         }
-        if(!str.isEmpty()){
-            return false;
-        }
-        else {
-            return true;
-        }
+
+        return stack.size() == 0;
     }
 }
