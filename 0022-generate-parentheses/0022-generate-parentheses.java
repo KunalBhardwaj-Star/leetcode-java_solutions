@@ -1,28 +1,29 @@
 class Solution {
     List<String> ans;
 
-    private void backtrack(int n , int openCount , int closeCount , StringBuilder sb){
-        if((sb.length() == 2 * n) && (closeCount == openCount)){
-            ans.add(sb.toString());
+    private void backtrack(StringBuilder curr , int n , int openCount , int closeCount){
+        if(curr.length() == 2 * n && openCount == closeCount){
+            String s = curr.toString();
+            ans.add(s);
             return;
         }
 
         if(openCount < n){
-            sb.append("(");
-            backtrack(n , openCount + 1 , closeCount , sb);
-            sb.deleteCharAt(sb.length() - 1);
+            curr.append('(');
+            backtrack(curr , n , openCount + 1 , closeCount);
+            curr.deleteCharAt(curr.length() - 1);
         }
 
         if(closeCount < openCount){
-            sb.append(")");
-            backtrack(n , openCount , closeCount + 1, sb);
-            sb.deleteCharAt(sb.length() - 1);
+            curr.append(')');
+            backtrack(curr , n , openCount , closeCount + 1);
+            curr.deleteCharAt(curr.length() - 1);
         }
     }
 
     public List<String> generateParenthesis(int n) {
         ans = new ArrayList<>();
-        backtrack(n , 0 , 0 , new StringBuilder());
+        backtrack(new StringBuilder() , n , 0 , 0);
         return ans;
     }
 }
