@@ -1,5 +1,4 @@
 class Solution {
-
     private int gcd(int a , int b){
         while(b != 0){
             int temp = b;
@@ -9,17 +8,16 @@ class Solution {
 
         return a;
     }
-
     public boolean isGoodArray(int[] nums) {
-        int n = nums.length;
+        int len = nums.length;
 
-        if(n == 1)
+        if(len == 1)
             return nums[0] == 1;
 
         int fact = gcd(nums[0] , nums[1]);
 
-        for(int i = 2; i < n ; i ++){
-            fact = gcd(fact , nums[i]);
+        for(int x = 2 ; x < len ; x++){
+            fact = gcd(nums[x] , fact);
         }
 
         return fact == 1;
