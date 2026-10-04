@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [0678-valid-parenthesis-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0877-stone-game) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0739-daily-temperatures) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0763-partition-labels) |
@@ -1166,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0763-partition-labels) |
 | [0826-most-profit-assigning-work](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0826-most-profit-assigning-work) |
 | [0917-boats-to-save-people](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0917-boats-to-save-people) |
@@ -1736,6 +1740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
