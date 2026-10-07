@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0394-decode-string) |
@@ -1291,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0513-find-bottom-left-tree-value) |
@@ -1537,6 +1539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
