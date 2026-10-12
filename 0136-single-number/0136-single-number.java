@@ -2,7 +2,8 @@ class Solution {
     public int singleNumber(int[] nums) {
         int ans = 0;
 
-        for(int n : nums) ans ^= n;
+        for(int x : nums)
+            ans ^= x;
 
         return ans;
     }
