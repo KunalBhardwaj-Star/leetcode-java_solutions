@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0268-missing-number) |
@@ -1569,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1749,6 +1752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
 | [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1908,4 +1912,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
