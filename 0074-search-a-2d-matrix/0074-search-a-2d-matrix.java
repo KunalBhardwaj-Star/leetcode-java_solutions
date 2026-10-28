@@ -17,11 +17,21 @@ class Solution {
         int n = matrix.length ;
         int m = matrix[0].length;
 
-        for(int i = 0 ; i < n ; i++){
-            boolean found = binarySearch(matrix , i , 0 , m - 1 , target);
+        int lft = 0 , rght = n - 1;
 
-            if(found)
-                return true;
+        while(lft <= rght){
+
+            int mid = (lft + rght) / 2;
+
+            if(matrix[mid][0] <= target && matrix[mid][m-1] >= target)
+                return binarySearch(matrix , mid , 0 , m - 1 , target);
+
+            else if(matrix[mid][0] > target){
+                rght = mid - 1;
+            }
+
+            else if(matrix[mid][m - 1] < target)
+                lft = mid + 1;
         }
 
         return false;
