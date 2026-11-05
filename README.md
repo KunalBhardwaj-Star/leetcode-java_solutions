@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1140-stone-game-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
@@ -819,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0997-find-the-town-judge) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -1892,6 +1894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
