@@ -1,11 +1,9 @@
 class Solution {
 
-    private boolean digDiv(int x){
-
+    private boolean divDig(int x){
         if(x % 10 == 0)
             return false;
 
-        
         int temp = x;
 
         while(temp != 0){
@@ -26,9 +24,9 @@ class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> ans = new ArrayList<>();
 
-        for(int e = left ; e <= right ; e++){
-            if(digDiv(e))
-                ans.add(e);
+        for(int i = left ; i <= right ; i++){
+            if(divDig(i))
+                ans.add(i);
         }
 
         return ans;
