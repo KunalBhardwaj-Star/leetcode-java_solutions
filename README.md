@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Queue
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Linked List
 |  |
 | ------- |
@@ -1247,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3886-sum-of-sortable-integers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Greedy
 |  |
 | ------- |
@@ -1348,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3838-weighted-word-mapping) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1369,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1635,6 +1641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bitmask
 |  |
 | ------- |
