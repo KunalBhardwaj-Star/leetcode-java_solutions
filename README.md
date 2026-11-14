@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3634-minimum-removals-to-balance-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
@@ -1540,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/3719-longest-balanced-subarray-i) |
