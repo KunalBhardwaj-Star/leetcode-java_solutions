@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1406-stone-game-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1510-stone-game-iv](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1510-stone-game-iv) |
@@ -1503,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0707-design-linked-list](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0707-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0860-design-circular-queue) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2336-smallest-number-in-infinite-set](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1539,6 +1542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1727,6 +1731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/0295-find-median-from-data-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/KunalBhardwaj-Star/leetcode-java_solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
